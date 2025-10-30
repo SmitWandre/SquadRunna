@@ -6,7 +6,7 @@ export default ({ config }) => {
       apiBaseUrl: process.env.API_BASE_URL || 'http://localhost:8000/api',
     },
     production: {
-      apiBaseUrl: process.env.API_BASE_URL || 'https://your-app.vercel.app/api',
+      apiBaseUrl: process.env.API_BASE_URL || 'https://squadrunna.vercel.app/api',
     },
   };
 
