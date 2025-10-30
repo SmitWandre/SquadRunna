@@ -85,12 +85,10 @@ running_app/
 │   ├── backend/          # Project settings
 │   ├── requirements.txt  # Python dependencies
 │   ├── vercel.json      # Vercel deployment config
-│   └── DEPLOYMENT.md    # Production deployment guide
 ├── mobile/               # React Native mobile app
 │   ├── src/             # Source code
 │   ├── app/             # Expo Router screens
 │   ├── components/      # Reusable components
-│   └── MOBILE_TESTING.md # Mobile testing guide
 └── docker-compose.yml   # Local development services
 ```
 
